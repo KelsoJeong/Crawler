@@ -1,0 +1,25 @@
+/* static/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8e1;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff7043;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #ffe0b2;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
